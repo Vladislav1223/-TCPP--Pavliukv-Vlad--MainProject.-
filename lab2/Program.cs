@@ -10,8 +10,7 @@ namespace lab2
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello Vlad!");
-            
+            Console.WriteLine("Hello Donnu!");
         }
     }
 }
