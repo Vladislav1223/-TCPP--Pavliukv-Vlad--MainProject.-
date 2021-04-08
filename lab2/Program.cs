@@ -6,7 +6,7 @@ namespace lab2
     {
         static void Main(string[] args)
         {
-            //Конфликт вирішено 08.04.21
+            //Конфликт вирішено 08.04.2021
             Console.WriteLine("Hello World,from IDE!");
             Console.WriteLine("Hello World,from google!");
             Console.WriteLine("Hello World!");
